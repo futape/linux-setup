@@ -1,0 +1,8 @@
+[core]
+    editor = nano
+    autocrlf = input
+    excludesfile = /home/lucas/.gitignore
+[color]
+    ui = true
+[remote "origin"]
+   	fetch = +refs/pull/*/head:refs/remotes/origin/pull/*
