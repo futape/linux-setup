@@ -69,7 +69,7 @@
 
 +   **Linux Mint 17.X (Ubuntu 14.04)** (falls Skylake CPU): `nvidia-352 mesa-utils`
 +   **Linux Mint 18.X (Ubuntu 16.04):** `nvidia-381 mesa-utils nvidia-prime`
-+   **Andernfalls: ** `nvidia-349 mesa-utils umblebee bumblebee-nvidia primus`
++   **Andernfalls:** `nvidia-349 mesa-utils umblebee bumblebee-nvidia primus`
 
 <!---->
 
