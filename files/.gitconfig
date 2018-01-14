@@ -1,7 +1,7 @@
 [core]
 	editor = nano
 	autocrlf = input
-	excludesfile = /home/lucas/.gitignore
+	excludesfile = ~/.gitignore
 [color]
 	ui = true
 [remote "origin"]
