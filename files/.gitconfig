@@ -2,6 +2,9 @@
 	editor = nano
 	autocrlf = input
 	excludesfile = ~/.gitignore
+[user]
+	name = Lucas Krause
+	email = dev@futape.de
 [color]
 	ui = true
 [remote "origin"]
