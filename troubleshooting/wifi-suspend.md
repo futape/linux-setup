@@ -72,7 +72,7 @@
 
 <!---->
 
-1.	1.	Den Network Manager während des RESUME Vorgangs neustarten. Dazu eine Datei `/etc/systemd/system/network-manager-restart.service` mit folgendem Inhalt erstellen:
+1.	Den Network Manager während des RESUME Vorgangs neustarten. Dazu eine Datei `/etc/systemd/system/network-manager-restart.service` mit folgendem Inhalt erstellen:
 
 		[Unit]
 		Description=Restart Network Manager at RESUME
