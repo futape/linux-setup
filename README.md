@@ -10,9 +10,9 @@ Bediene dich und benutze was dir gefällt.
 
 ## Inhalt
 
-+	[Applications](apps)
-+	[Konfiguration](configuration)
-+	[Treiber](drivers)
-+	[Frameworks](frameworks)
-+	[Erscheinungsbild](look)
-+	[Problembehandlung](troubleshooting)
++	[Applications](apps/README.md)
++	[Konfiguration](configuration/README.md)
++	[Treiber](drivers/README.md)
++	[Frameworks](frameworks/README.md)
++	[Erscheinungsbild](look/README.md)
++	[Problembehandlung](troubleshooting/README.md)
