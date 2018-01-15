@@ -29,6 +29,12 @@
 
 
 
+## Einrichtung
+
+1.  Projekte-/Arbeitsverzeichnis auf `~/Kdenlive` setzen.
+
+
+
 ## Alternative
 
 +	PiTiVi
