@@ -95,7 +95,7 @@
 
 
 
-## Weitere Alternative
+## Weitere Alternativen
 
 +	<https://forums.linuxmint.com/viewtopic.php?p=1135258#p1135258>
 +	<https://www.reddit.com/r/linuxmint/comments/5dxntl/please_help_linux_mint_18_doesnt_connect_to_wifi/da87a1w/>
