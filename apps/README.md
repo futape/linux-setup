@@ -17,6 +17,8 @@
 +	[Composer](composer.md)
 +	[DConf-Editor](dconf-editor.md)
 +	[DeVeDe](devede.md)
++	[Docker](docker.md)
++	[Docker Compose](docker-compose.md)
 +	[dpkg-repack](dpkg-repack.md)
 +	[Dropbox](dropbox.md)
 +	[File Roller](file-roller.md)

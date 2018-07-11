@@ -7,6 +7,10 @@
 
 ## Installation
 
++   Docker Compose
+
+<!---->
+
 1.	Docker installieren
 2.	Die neueste Binary herunterladen (Versionsnummer mit <https://github.com/docker/compose/releases> abgleichen):
 
