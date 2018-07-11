@@ -7,6 +7,7 @@
 +	[Avidemux](avidemux.md)
 +	[Back In Time](backintime.md)
 +	[Banshee](banshee.md)
++	[Bash-it](bash-it.md)
 +	[Blender](blender.md)
 +	[Brasero](brasero.md)
 +	[build-essential](build-essential.md)
