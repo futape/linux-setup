@@ -14,20 +14,11 @@
 +   `mkisofs`
 +   `cdda2wav`
 
-<!---->
-
-    sudo add-apt-repository ppa:brandonsnider/cdrtools
-
-Da das PPA außerdem das Paket `smake` enthält, welches (meines Erachtens nach) nichts mit cdrtools zu tun hat, wird dieses mittels APT-Pinning ausgeschlossen. Dazu wird folgender Inhalt in die Datei `/etc/apt/preferences.d/cdrtools-ppa` geschrieben.
-
-    Package: smake
-    Pin: release o=LP-PPA-brandonsnider-cdrtools
-    Pin-Priority: -1
-
-<!---->
-
-    sudo apt-get update
-    sudo apt-get install cdrecord mkisofs cdda2wav
+```sh
+sudo add-apt-repository ppa:brandonsnider/cdrtools
+sudo apt-get update
+sudo apt-get install cdrecord mkisofs cdda2wav
+```
 
 
 
