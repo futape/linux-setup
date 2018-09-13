@@ -4,6 +4,7 @@
 +   <https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions>
 +   <https://github.com/nodesource/distributions#deb>
 +   <https://github.com/nodejs/node>
++   <https://wiki.ubuntuusers.de/Node.js/>
 
 
 
@@ -15,7 +16,7 @@
 
 <!---->
 
-    curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+    curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
     sudo apt-get install nodejs build-essential
 
 
@@ -39,5 +40,5 @@ Bei der globalen Installation von Node.js Packages (via npm) kann es aufgrund vo
     Alternativ hätte man dies auch mittels der `NPM_CONFIG_PREFIX` Umgebungsvariable definieren können (s. auch <https://github.com/npm/npm/issues/13548>).
 3.  Anschließend fügt man das Verzeichnis in das via npm global installierte Binaries geschrieben werden, dem `$PATH` zu:
 
-        'export PATH="$HOME/.npm-packages/bin:$PATH"' >> ~/.profile
+        echo 'PATH="$HOME/.npm-packages/bin:$PATH"' >> ~/.profile
         source ~/.profile
