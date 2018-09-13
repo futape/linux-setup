@@ -9,6 +9,7 @@
 +	[cURL](curl.md)
 +	[build-essential](build-essential.md)
 +	[Composer](composer.md)
++	[DBeaver](dbeaver.md)
 +	[DConf-Editor](dconf-editor.md)
 +	[DeVeDe](devede.md)
 +	[Docker](docker.md)
