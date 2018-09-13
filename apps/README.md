@@ -38,7 +38,7 @@
 +	[Node.js](nodejs.md)
 +	[OpenShot](openshot.md)
 +	[PulseAudio Volume Control](pavucontrol.md)
-+	[PDF Chain (pdftk)](pdfchain.md)
++	[PDF mod](pdfmod.md)
 +	[Pidgin](pidgin.md)
 +	[PLEX](plex.md)
 +	[Ruby](ruby.md)
