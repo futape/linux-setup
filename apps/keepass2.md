@@ -22,9 +22,9 @@
 
 1.  Deutsches Sprachpaket für KeePass 2.X+ von <http://keepass.info/translations.html> herunterladen.
 2.  ZIP-Archiv entpacken.
-3.  `.lngx` Datei nach `$XDG_DATA_HOME/KeePass` (standardmäßig `~/.local/share/KeePass`) bzw. nach `/usr/lib/keepass2` kopieren.
+3.	`Languages` Verzeichnis unter `/usr/lib/keepass2` erstellen
+3.  `.lngx` Datei nach `/usr/lib/keepass2/Languages` kopieren.
 4.  KeePass starten und unter ***View* &gt; *Change Language*** die deutsche Sprache auswählen.
-5.  `.kdbx` Datei (KeePass Datenbank) aus der Dropbox in KeePass laden.
 
 
 
