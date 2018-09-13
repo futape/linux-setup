@@ -8,12 +8,12 @@
 
 ## Installation
 
-+   `libbluray1`
++   `libbluray2`
 +   `libbluray-bdj`
 
 <!---->
 
-    sudo apt-get install libbluray1 libbluray-bdj
+    sudo apt-get install libbluray2 libbluray-bdj
 
 
 

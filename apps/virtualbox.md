@@ -12,7 +12,7 @@
 
 <!---->
 
-    sudo add-apt-repository 'deb http://download.virtualbox.org/virtualbox/debian xenial contrib'
+    sudo add-apt-repository 'deb [arch=amd64] http://download.virtualbox.org/virtualbox/debian bionic contrib'
 
 Falls vorhanden, `deb-src` Zeile für das VirtualBox Repository in `/etc/apt/sources.list` (oder in entsprechender Datei unter `sources.list.d`) entfernen.
 

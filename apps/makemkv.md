@@ -1,5 +1,6 @@
 # MakeMKV
 
++	<http://www.makemkv.com/>
 +   <http://wiki.ubuntuusers.de/MakeMKV>
 
 
@@ -33,7 +34,7 @@
 
 <!---->
 
-1.  Die Open-Source Varianten von libaacs und libbdplus deinstallieren. libbdplus ist erst ab Ubuntu 15.10 in den [offiziellen Paketquellen](<https://launchpad.net/ubuntu/+source/libbdplus>) enthalten.
+1.  Die Open-Source Varianten von libaacs und libbdplus deinstallieren:
 
         sudo apt-get remove libaacs0 libbdplus0
 2.  [libmmbd](http://www.makemkv.com/forum2/viewtopic.php?f=10&t=7008) als Ersatz einrichten.

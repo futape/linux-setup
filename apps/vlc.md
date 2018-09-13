@@ -20,4 +20,4 @@
 
 ## Alternativen
 
-+	Xplayer (Unter Linux Mint 18.2 bereits vorinstalliert)
++	Xplayer (Unter Linux Mint 19 bereits vorinstalliert)

@@ -17,4 +17,4 @@
 
 ## Alternative
 
-+	Rhythmbox (Unter Linux Mint 18.2 bereits vorinstalliert)
++	Rhythmbox (Unter Linux Mint 19 bereits vorinstalliert)

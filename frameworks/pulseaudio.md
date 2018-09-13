@@ -11,15 +11,11 @@
 ## Installation
 
 +   `pulseaudio`
-+   `pulseaudio-esound-compat`
-+   `pulseaudio-module-x11`
-+   `pulseaudio-module-gconf`
 +   **Kompatibilität/Emulation:**
-    +   `osspd`
-    +   `osspd-pulseaudio`
+    +   `pulseaudio-esound-compat`
 +   **Sinks:**
     +   `pulseaudio-module-bluetooth`
 
-<!---->
-
-    sudo apt-get install pulseaudio pulseaudio-esound-compat pulseaudio-module-x11 pulseaudio-module-gconf osspd osspd-pulseaudio pulseaudio-module-bluetooth
+```sh
+sudo apt-get install pulseaudio pulseaudio-esound-compat pulseaudio-module-bluetooth
+```

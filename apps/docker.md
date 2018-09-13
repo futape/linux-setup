@@ -20,7 +20,7 @@
 		curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 3.	Repository hinzufügen:
 
-		sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu xenial stable"
+		sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
 4.	Neue Pakte einlesen:
 
 		sudo apt-get update
