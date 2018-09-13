@@ -7,7 +7,7 @@
 
 ## Installation
 
-+   `virtualbox-5.1`
++   `virtualbox-5.2`
 +   `dkms`
 
 <!---->
@@ -18,7 +18,7 @@ Falls vorhanden, `deb-src` Zeile für das VirtualBox Repository in `/etc/apt/sou
 
     wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
     sudo apt-get update
-    sudo apt-get install virtualbox-5.1 dkms
+    sudo apt-get install virtualbox-5.2 dkms
 
 
 
