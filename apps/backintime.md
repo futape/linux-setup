@@ -10,16 +10,6 @@
 
 <!---->
 
-    sudo apt-get install backintime-qt4
-
-
-
-### Alternative
-
-+   `backintime-qt4`
-
-<!---->
-
     sudo add-apt-repository ppa:bit-team/stable
     sudo apt-get update
     sudo apt-get install backintime-qt4

@@ -17,15 +17,6 @@
 
 
 
-### Alternative
-
-+   `makemkv-bin`
-+   `makemkv-oss`
-
-Befolge die Anweisungen unter <http://www.makemkv.com/forum2/viewtopic.php?f=3&t=224>.
-
-
-
 ## Einrichtung
 
 1.  Den Beta Lizenzschlüssel von <http://www.makemkv.com/forum2/viewtopic.php?f=5&t=1053> kopieren.

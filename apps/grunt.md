@@ -12,9 +12,3 @@
 <!---->
 
     npm install -g grunt-cli
-
-
-
-## Alternative
-
-+	Gulp.js

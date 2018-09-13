@@ -32,12 +32,12 @@
 
 +   <http://keepass.info/plugins.html#linuxint>
 +   <https://github.com/dlech/Keebuntu>
-+   [Stable PPA](https://launchpad.net/~dlech/+archive/ubuntu/keepass2-plugins), [Beta PPA](https://launchpad.net/~dlech/+archive/ubuntu/keepass2-plugins-beta)
++   <https://launchpad.net/~dlech/+archive/ubuntu/keepass2-plugins>
 +   <https://sourceforge.net/p/keepass/bugs/1345/>
 
 <!---->
 
-1.  Entweder das stable PPA oder das beta PPA hinzufügen:
+1.  Das PPA hinzufügen:
 
         sudo add-apt-repository ppa:dlech/keepass2-plugins
         sudo apt-get update

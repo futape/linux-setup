@@ -11,10 +11,4 @@
 
 <!---->
 
-    npm install -g gulp
-
-
-
-### Alternative
-
-+	Grunt
+    npm install -g gulp-cli

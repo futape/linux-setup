@@ -11,6 +11,7 @@
 
 <!---->
 
+1.	PHP installieren
 1.	Zuerst ein eventuell installiertes `composer` Paket deinstallieren:
 
 		sudo apt-get remove composer
@@ -21,13 +22,3 @@
 		php -r "if (hash_file('SHA384', 'composer-setup.php') === trim(file_get_contents('composer-setup.sig'))) { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); unlink('composer-setup.sig'); } echo PHP_EOL;"
 		sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 		php -r "unlink('composer-setup.php'); unlink('composer-setup.sig');"
-
-
-
-### Alternative
-
-+	`composer`
-
-<!---->
-
-	sudo apt-get install composer

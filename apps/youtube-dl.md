@@ -7,18 +7,6 @@
 
 ## Installation
 
-+   `youtube-dl`
-+   `ffmpeg`
-+   `rtmpdump`
-
-(Benötigt außerdem Python in Version 2.6, 2.7, 3.2 oder neuer)
-
-    sudo apt-get install youtube-dl ffmpeg rtmpdump
-
-
-
-### Alternative
-
 +   <https://wiki.ubuntuusers.de/youtube-dl/#Manuell>
 +   <http://rg3.github.io/youtube-dl/download.html>
 

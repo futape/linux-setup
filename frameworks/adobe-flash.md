@@ -8,16 +8,6 @@
 
 +   `adobe-flashplugin`
 
-<!---->
-
-    sudo apt-get install adobe-flashplugin
-
-
-
-### Alternative (Adobe Flash NPAPI Plug-in)
-
-+   `flashplugin-installer`
-
-<!---->
-
-    sudo apt-get install flashplugin-installer
+```sh
+sudo apt-get install adobe-flashplugin
+```
