@@ -39,6 +39,7 @@
 +	[Node.js](nodejs.md)
 +	[OpenShot](openshot.md)
 +	[PHP (CLI)](php.md)
++	[PhpStorm](phpstorm.md)
 +	[ppa-purge](ppa-purge.md)
 +	[PulseAudio Volume Control](pavucontrol.md)
 +	[PDF mod](pdfmod.md)
