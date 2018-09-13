@@ -46,6 +46,7 @@
 +	[Ruby](ruby.md)
 +	[Simple Scan](simple-scan.md)
 +	[Skype](skype.md)
++	[snap](snap.md)
 +	[Spotify](spotify.md)
 +	[Sublime Text 3](sublime-text.md)
 +	[Synaptic](synaptic.md)
